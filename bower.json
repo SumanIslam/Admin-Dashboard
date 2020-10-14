@@ -1,0 +1,24 @@
+{
+  "name": "Admin Dashboard",
+  "authors": [
+    "suman Islam <sumunahmed1416@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.5.3",
+    "font-awesome": "^5.15.1"
+  }
+}
